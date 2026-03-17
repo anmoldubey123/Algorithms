@@ -139,11 +139,7 @@ java -cp . DijkstraTest
 
 ---
 
-## 📝 Notes
 
-- Assignment 4 for ECE 360C: Algorithms, UT Austin — Spring 2026
-- Done in teams of two per course policy
-- Per academic integrity policy, do not copy or share this code
 
 ---
 
